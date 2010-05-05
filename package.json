@@ -1,0 +1,8 @@
+{
+  "id": "bartabunflash@philikon.de",
+  "fullName": "BarTab Unflash",
+  "description": "Unload tabs containing Flash as soon as you leave them (using BarTab)",
+  "version": "1.0",
+  "author": "Philipp von Weitershausen",
+  "dependencies": ["jetpack-core"]
+}
